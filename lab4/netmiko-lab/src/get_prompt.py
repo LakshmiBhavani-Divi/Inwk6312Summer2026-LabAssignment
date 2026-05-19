@@ -1,4 +1,4 @@
-from netmiko import Netmiko
+from netmiko import Netmiko 
 
 device = {
     "device_type": "cisco_ios",
