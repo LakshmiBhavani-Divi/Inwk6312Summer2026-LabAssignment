@@ -1,4 +1,4 @@
-import yaml
+import yaml 
 from jinja2 import Environment, FileSystemLoader
 from netmiko import Netmiko
 
